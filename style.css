@@ -76,10 +76,10 @@ ul {
 
 .month {
 	color: #8D81FF;
-	font-size: 24px;
+	font-size: 32px;
 	font-weight: 400;
 	margin-bottom: 8px;
-	font-family: "BPG Square", sans-serif;
+	font-family: "BPG Nostalgia", sans-serif;
 }
 
 .heading2 {
@@ -142,30 +142,30 @@ nav {
 p {
 	margin-bottom: 20px;
 	color: #4E6FAE;
-	font-family: "BPG Nostalgia", sans-serif;
+	font-family: "BPG Square", sans-serif;
 	font-size: 16px;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 700;
 	line-height: normal;
 }
 
 .listing {
 	margin: 0;
 	color: #4E6FAE;
-	font-family: "BPG Nostalgia", sans-serif;
+	font-family: "BPG Square", sans-serif;
 	font-size: 16px;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 700;
 	line-height: normal; 
 }
 
 #lasttext {
 	margin-bottom: 155px;
 	color: #4E6FAE;
-	font-family: FiraGO;
+	font-family: "BPG Square", sans-serif;
 	font-size: 16px;
 	font-style: normal;
-	font-weight: 400;
+	font-weight: 700;
 	line-height: normal;
 	width: 1021px;
 

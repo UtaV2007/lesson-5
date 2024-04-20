@@ -117,21 +117,21 @@ nav {
 
 .heading3 {
 	color: #3F4145;
-	font: Helvetica Neue LT GEO;
+	font-family: "Roboto", sans-serif;
 	font-weight: 400;
 	font-size: 20px;
 	font-style: normal;
 	line-height: 24.14px;
-	display: inline;
 	margin-bottom: 20px;
 }
 .text {
 	color: #7E8898;
-	font: Helvetica Neue LT GEO;
+	font-family: "Roboto", sans-serif;
 	font-weight: 400;
 	font-size: 16px;
 	font-style: normal;
 	line-height: 19.31px;
+	display: inline;
 }
 
 #bigdiv {
@@ -140,20 +140,19 @@ nav {
 
 #smalldiv1 {
 	width: 500px;
-	margin: 0;
+	margin-top: 0;
 	background: #E7E7E7;
 	display: inline-block;
-	padding: 20px;
+	padding: 20px 20px 32px 20px;
 	margin-right: 52px;
 	margin-left: 194px;
-	
-
+	vertical-align: top;
 }
 
 #smalldiv2 {
 	display: inline-block;
 	width: 500px;
-	margin: 0;
+	margin-top: 0;
 	background: #E7E7E7;
 	padding: 20px;
 	margin-bottom: 90px;
@@ -165,7 +164,7 @@ nav {
 	margin-left: 29px;
 	display: inline-block;
 	width: 335px;
-	margin-top: 15px;
+	vertical-align: top;
 }
 
 .line2 {
