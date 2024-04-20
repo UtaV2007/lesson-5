@@ -61,125 +61,80 @@ a {
 }
 
 #active {
-	color: #4E6FAE;
-	margin-left: 60px;
-	margin-right: 87px;
-}
-
-#contact {
-	margin-left: 81px;
-}
-
-ul {
-	list-style: none;
-}
-
-.month {
 	color: #8D81FF;
-	font-size: 24px;
-	font-weight: 400;
-	margin-bottom: 8px;
-	font-family: "BPG Square", sans-serif;
+	margin-left: 87px;
+	margin-right: 81px;
 }
 
-.heading2 {
-	font-size: 20px;
-	color: #4E6FAE;
-	font-weight: 700;
-	font-family: "BPG Square", sans-serif;
-}
-
-.text {
-	color: #4E6FAE;
-	width: 1021px;
-	display: inline-block;
-	width: 778px;
-	vertical-align: top;
-	margin-top: 14px;
-	margin-left: 66px;
-}
-
-.date {
-	width: 50px;
-	height: 50px;
-	background-color: #5012D5;
-	color: #84FF81;
-	font-family: Helvetica;
-	font-size: 24px;
-	font-style: normal;
-	font-weight: 400;
-	line-height: normal;
-	padding: 10px;
-	margin-bottom: 18px;
-}
-
-.entire {
-	margin: 54px 97px 285px 52px;
-}
 
 nav {
 	display: inline-block;
 	vertical-align: middle;
 }
 
+#main {
+	margin-left: 60px;
+}
+
+#contact {
+	color: #4E6FAE;
+}
+
+#starter {
+	margin: 40px 720px 30px 90px;
+	display: inline-block;
+}
+
 .html {
 	vertical-align: middle;
 }
 
-.pdiv {
-	display: inline-block;
-	width: 778px;
-	vertical-align: top;
-	margin-top: 14px;
-	margin-left: 66px;
+.extra {
+	color: #3F4145;
+	font: Helvetica Neue LT GEO;
+	font-weight: 400;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 24.14px;
 }
 
-.codepic {
-	vertical-align: top;
-	margin-top: 14px;
-	margin-bottom: 155px;
-}
-p {
+.text {
+	color: #7E8898;
+	font: Helvetica Neue LT GEO;
+	font-weight: 400;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 24.14px;
 	margin-bottom: 20px;
+}
+
+#heading {
+	font-size: 36px;
+	font-weight: 700;
 	color: #4E6FAE;
-	font-family: "BPG Nostalgia", sans-serif;
-	font-size: 16px;
-	font-style: normal;
-	font-weight: 400;
-	line-height: normal;
+	margin-bottom: 23px;
 }
 
-.listing {
-	margin: 0;
-	color: #4E6FAE;
-	font-family: "BPG Nostalgia", sans-serif;
-	font-size: 16px;
-	font-style: normal;
-	font-weight: 400;
-	line-height: normal; 
+.big {
+	padding: 93px 40px 93px 162px;
+    background-color: #E7E7E7;
+    margin-bottom: 106px;
 }
 
-#lasttext {
-	margin-bottom: 155px;
-	color: #4E6FAE;
-	font-family: FiraGO;
-	font-size: 16px;
-	font-style: normal;
-	font-weight: 400;
-	line-height: normal;
-	width: 1021px;
-
+.info {
+	display: inline-block;
+	width: 474px;
+	vertical-align: top;
 }
 
-#lastpic {
-    margin-top: 14px;
-    margin-bottom: 32px; 
-}
-
-.mydiv {
+.line2 {
     width: 2px;
     height: 50px;
     display: inline-block;
     margin: 0 41px;
     background-color: #5012D5;
+}
+#end {
+	margin-bottom: 180px;
+	margin-left: 96px;
 }

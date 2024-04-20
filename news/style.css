@@ -62,59 +62,12 @@ a {
 
 #active {
 	color: #4E6FAE;
-	margin-left: 60px;
-	margin-right: 87px;
-}
-
-#contact {
-	margin-left: 81px;
-}
-
-ul {
-	list-style: none;
-}
-
-.month {
-	color: #8D81FF;
-	font-size: 24px;
-	font-weight: 400;
-	margin-bottom: 8px;
-	font-family: "BPG Square", sans-serif;
-}
-
-.heading2 {
-	font-size: 20px;
-	color: #4E6FAE;
-	font-weight: 700;
-	font-family: "BPG Square", sans-serif;
-}
-
-.text {
-	color: #4E6FAE;
-	width: 1021px;
-	display: inline-block;
-	width: 778px;
-	vertical-align: top;
-	margin-top: 14px;
-	margin-left: 66px;
-}
-
-.date {
-	width: 50px;
-	height: 50px;
-	background-color: #5012D5;
-	color: #84FF81;
-	font-family: Helvetica;
-	font-size: 24px;
-	font-style: normal;
-	font-weight: 400;
-	line-height: normal;
-	padding: 10px;
-	margin-bottom: 18px;
+	margin-left: 87px;
+	margin-right: 81px;
 }
 
 .entire {
-	margin: 54px 97px 285px 52px;
+	margin: 41px 194px 193px 63px;
 }
 
 nav {
@@ -125,61 +78,104 @@ nav {
 .html {
 	vertical-align: middle;
 }
+#main {
+	margin-left: 60px;
+}
+#html1 {
+	margin: 85px 194px 120px 194px;
+}
 
-.pdiv {
+#heading1 {
+	color: #4E6FAE;
+	font: FiraGO;
+	font-weight: 700;
+	font-size: 26px;
+	font-style: normal;
+	line-height: 31.2px;
 	display: inline-block;
-	width: 778px;
-	vertical-align: top;
-	margin-top: 14px;
-	margin-left: 66px;
+	margin-bottom: 26px;
+	margin-left: 194px;
+}
+#heading2 {
+	color: #4E6FAE;
+	font: FiraGO;
+	font-weight: 400;
+	font-size: 26px;
+	font-style: normal;
+	line-height: 31.2px;
+	display: inline-block;
+	margin-bottom: 26px;
+	margin-right: 200px;
+}
+.line1 {
+    width: 2px;
+    height: 24px;
+    display: inline-block;
+    margin: 0 41px;
+    background-color: #5012D5;
 }
 
-.codepic {
-	vertical-align: top;
-	margin-top: 14px;
-	margin-bottom: 155px;
-}
-p {
+.heading3 {
+	color: #3F4145;
+	font: Helvetica Neue LT GEO;
+	font-weight: 400;
+	font-size: 20px;
+	font-style: normal;
+	line-height: 24.14px;
+	display: inline;
 	margin-bottom: 20px;
-	color: #4E6FAE;
-	font-family: "BPG Nostalgia", sans-serif;
+}
+.text {
+	color: #7E8898;
+	font: Helvetica Neue LT GEO;
+	font-weight: 400;
 	font-size: 16px;
 	font-style: normal;
-	font-weight: 400;
-	line-height: normal;
+	line-height: 19.31px;
 }
 
-.listing {
+#bigdiv {
+	margin-bottom: 90px;
+}
+
+#smalldiv1 {
+	width: 500px;
 	margin: 0;
-	color: #4E6FAE;
-	font-family: "BPG Nostalgia", sans-serif;
-	font-size: 16px;
-	font-style: normal;
-	font-weight: 400;
-	line-height: normal; 
-}
-
-#lasttext {
-	margin-bottom: 155px;
-	color: #4E6FAE;
-	font-family: FiraGO;
-	font-size: 16px;
-	font-style: normal;
-	font-weight: 400;
-	line-height: normal;
-	width: 1021px;
+	background: #E7E7E7;
+	display: inline-block;
+	padding: 20px;
+	margin-right: 52px;
+	margin-left: 194px;
+	
 
 }
 
-#lastpic {
-    margin-top: 14px;
-    margin-bottom: 32px; 
+#smalldiv2 {
+	display: inline-block;
+	width: 500px;
+	margin: 0;
+	background: #E7E7E7;
+	padding: 20px;
+	margin-bottom: 90px;
+	margin-right: 194px;
 }
 
-.mydiv {
+
+.textdiv {
+	margin-left: 29px;
+	display: inline-block;
+	width: 335px;
+	margin-top: 15px;
+}
+
+.line2 {
     width: 2px;
     height: 50px;
     display: inline-block;
     margin: 0 41px;
     background-color: #5012D5;
+}
+
+#end {
+	margin-left: 194px;
 }
